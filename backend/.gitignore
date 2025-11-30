@@ -1,3 +1,2 @@
-//write ac a code to ommit node_modules folder and env files
 node_modules/
 .env
